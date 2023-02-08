@@ -4,19 +4,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ArtthSilva&bg_color=0d0915&color=00d5ff&line=38a9ff&point=3339d1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArtthSilva&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ArtthSilva&show_icons=true&count_private=true&hide_border=true&title_color=60E1EB&icon_color=0E9BBB&text_color=c9d1d9&bg_color=0d1117" alt="Arthur Pereira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtthSilva&layout=compact&hide_border=true&title_color=3DE3ESa4&text_color=0E9BBB&bg_color=0d1117" />
-</div>
-
-
 <div align="center"> 
 <a href="https://instagram.com/arthur.p5" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:arthur12pereira1@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
