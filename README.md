@@ -13,10 +13,4 @@
 <a href = "mailto:arthur12pereira1@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
 
-### Estudando no momento:
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
-
-  
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=60E1EB&height=120&section=footer"/>
