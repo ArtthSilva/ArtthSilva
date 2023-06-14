@@ -2,7 +2,7 @@ Eai ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 =========================================================================================================================================
 * 🌍 Moro em João Pessoa - Brasil
 * 📚 Atualmente estou cursando Sistemas Para Internet na UNIESP
-* 🖥️ Conecte-se comigo no [Linkedin]([http://www.linkedin.com/in/arthur-pereira-258582251/])
+* 🖥️ Conecte-se comigo no [Linkedin](http://www.linkedin.com/in/arthur-pereira-258582251/)
 * 🚀Você pode entrar em contato comigo em [spi.arthurpereira@gmail.com](mailto:spi.arthurpereira@gmail.com)
 
 
