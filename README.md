@@ -1,16 +1,41 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0E5386&height=120&section=header"/>
+Eai ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Meu nome é Arthur Pereira
+=========================================================================================================================================
+* 🌍 Moro em João Pessoa - Brasil
+* 📚 Atualmente estou cursando Sistemas Para Internet na UNIESP
+* 🖥️ Conecte-se comigo no [Linkedin]([http://www.linkedin.com/in/arthur-pereira-258582251/])
+* 🚀Você pode entrar em contato comigo em [spi.arthurpereira@gmail.com](mailto:spi.arthurpereira@gmail.com)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0E9BBBF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Arthur+Pereira;Tenho+18+anos;Sou+estudante+de+Sistemas+para+Internet;Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArtthSilva&bg_color=00010f&color=00ffe1&line=0011ff&point=00fbff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## Habilidades 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=ArtthSilva&theme=algolia&show_icons=true)](https://github.com/ArtthSilva)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtthSilva&theme=algolia&show)
+- Linguagens
 
-<div align="center"> 
-  <a href=
-  https://www.linkedin.com/in/arthur-pereira-258582251/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-<a href = "mailto:arthur12pereira1@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </div>
+<p align="left">
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=60E1EB&height=120&section=footer"/>
+</p>
+
+- Banco de dados
+
+<p align="left">
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+
+</p>
+
+- Frameworks
+
+<p align="left">
+
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"  width="36" height="36"/>
+  
+- Tools
+
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+  
+</p>  
