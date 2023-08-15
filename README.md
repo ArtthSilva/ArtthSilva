@@ -7,9 +7,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
   <a href = "mailto:spi.arthurpereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/arthur-pereira-258582251/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
  
- 
-
 
 
 
@@ -30,9 +29,9 @@ class Developer {
           'https://twitter.com/artthista'
         ],
         code = {
-          'mobile': ['Flutter'],
-          'frontend': ['Flutter', 'HTML', 'CSS', 'JavaScript', 'Typescript', 'Angular'],
-          'backend': ['Java', 'Spring Boot'],
+          'mobile': ['Flutter', 'Dart'],
+          'frontend': ['Angular', 'Typescript'],
+          'backend': [ 'Spring Boot', 'Java'],
           'database': ['PostgreSQL', 'MySQL'],
           'tools': [
             'GIT',
