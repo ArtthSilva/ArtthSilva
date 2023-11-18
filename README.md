@@ -25,7 +25,7 @@ class Developer {
         name = 'Arthur Pereira',
         email = 'spi.arthurpereira@gmail.com',
         social = [
-          'https://www.linkedin.com/in/arthur-pereira-258582251/',
+          'https://www.linkedin.com/in/arthur-silvap',
           'https://twitter.com/artthista'
         ],
         code = {
