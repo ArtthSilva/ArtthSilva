@@ -26,7 +26,6 @@ class Developer {
         email = 'spi.arthurpereira@gmail.com',
         social = [
           'https://www.linkedin.com/in/arthur-silvap',
-          'https://twitter.com/artthista'
         ],
         code = {
           'mobile': ['Flutter', 'Dart'],
