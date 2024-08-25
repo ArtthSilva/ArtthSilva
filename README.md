@@ -29,7 +29,7 @@ class Developer {
         ],
         code = {
           'mobile': ['Flutter', 'Dart'],
-          'frontend': ['Angular', 'Typescript'],
+          'frontend': ['React', 'Angular', 'Typescript'],
           'backend': [ 'Spring Boot', 'Java'],
           'database': ['PostgreSQL', 'MySQL'],
           'tools': [
