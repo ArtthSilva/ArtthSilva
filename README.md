@@ -1,16 +1,24 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Arthur!
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Arthur!
 =========================================================================================================================================
+
 * 🌍 I live in João Pessoa - Brazil.
+
 <div> 
+  <a href="mailto:spi.arthurpereira@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/arthur-silvap" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
+</div>
 
-  <a href = "mailto:spi.arthurpereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/arthur-silvap" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
- 
+<br />
 
+<table>
+  <tr>
+    <td valign="top">
 
-
-```dart	
+```dart
 class Developer {
   final String username;
   final String name;
@@ -28,14 +36,14 @@ class Developer {
         code = {
           'mobile': ['Flutter', 'Dart'],
           'frontend': ['React', 'Angular', 'Typescript'],
-          'backend': [ 'Spring Boot', 'Java'],
+          'backend': ['Spring Boot', 'Java'],
           'database': ['PostgreSQL', 'MySQL'],
           'tools': [
-            'GIT',
+            'Git',
             'GitHub',
             'Figma',
           ],
         };
 }
 ```
-<img width="411" height="523" alt="Frame 2" src="https://github.com/user-attachments/assets/041182fe-5ed2-46a0-ae80-e8768c372315" />
+</td> <td valign="top"> <img src="https://github.com/user-attachments/assets/041182fe-5ed2-46a0-ae80-e8768c372315" width="auto" /> </td> </tr> </table> 
