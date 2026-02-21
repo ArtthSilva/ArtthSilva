@@ -14,4 +14,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <br />
 
- <img src="https://github.com/user-attachments/assets/041182fe-5ed2-46a0-ae80-e8768c372315" width="auto" />  
+ <img src="https://github.com/user-attachments/assets/041182fe-5ed2-46a0-ae80-e8768c372315" width="480px" />  
